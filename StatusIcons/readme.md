@@ -1,0 +1,1 @@
+Status icons on embed.
